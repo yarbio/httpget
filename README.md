@@ -1,6 +1,6 @@
 this shortens long scripts into loadstrings. If your executor does not support HttpGet/loadstring, please refer to copy and pasting it. Other than that, use this template
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yarbio/httpget/main/Example)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yarbio/httpget/main/Example )()
 
 refer to https://github.com/yarbio/httpget/releases/tag/extras , or https://github.com/yarbio/httpget/blob/main/internaluisolara for the internal ui
 
