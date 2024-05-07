@@ -10,3 +10,6 @@ please refer to; https://discord.gg/MEgjxDBWqB for scripts.
 
 this is mainly around solara, ill be sure to add universal once lunar and wave drop.
 thanks <3
+
+
+for more; https://forms.microsoft.com/r/GRSXp4pT4h ask here.
