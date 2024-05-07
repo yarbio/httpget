@@ -1,6 +1,6 @@
 # Security Policy
 
-## Supported Versions - Executors for **Roblox*
+## Supported Versions - Executors for *_Roblox_*
 
 | Version | Supported          |
 | ------- | ------------------ |
